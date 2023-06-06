@@ -1,0 +1,22 @@
+/* App.css */
+*{
+ 
+  margin: 0;
+  padding: 0;
+}
+.App {
+  position: relative;
+}
+
+.Try {
+  
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.ContactForm {
+  position: relative;
+  z-index: 1;
+}
